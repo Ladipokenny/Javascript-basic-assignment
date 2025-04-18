@@ -17,8 +17,8 @@ if (operator == "+") {
     alert("Error: Invalid operator");
 }
 
-Sample output
-First number:8
-Operator:/
-Second Number:2
-Alert:Result: 4
+//Sample output
+//First number:8
+//Operator:/
+//Second Number:2
+//Alert:Result: 4
