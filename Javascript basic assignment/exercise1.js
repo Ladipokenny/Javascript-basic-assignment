@@ -6,7 +6,7 @@ if (number % 2 == 0) {
     alert(number + "is odd.");
 }
 
-Sample output
-Prompt: Enter a number
-User input: 5
-Alert: The number is odd
+//Sample output
+//Prompt: Enter a number
+//User input: 5
+//Alert: The number is odd
