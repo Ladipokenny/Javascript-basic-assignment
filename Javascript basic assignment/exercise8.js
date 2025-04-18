@@ -11,34 +11,34 @@ for (let i = 1; i <= 15; i++) {
     }
 }
 
-Sample Output:
-1  
+//Sample Output:
+//1  
 
-2  
+//2  
 
-Fizz  
+//Fizz  
 
-4  
+//4  
 
-Buzz  
+//Buzz  
 
-Fizz  
+//Fizz  
 
-7  
+//7  
 
-8  
+//8  
 
-Fizz  
+//Fizz  
 
-Buzz  
+//Buzz  
 
-11  
+//11  
 
-Fizz  
+//Fizz  
 
-13  
+//13  
 
-14  
+//14  
 
-FizzBuzz
+//FizzBuzz
 
