@@ -6,7 +6,7 @@ if (age >= 18) {
     alert("You are not eligible to vote yet");
 }
 
-Sample output
-Prompt: Enter your age
-User Input:17
-Alert: You are not eligi ble to vote
+//Sample output
+//Prompt: Enter your age
+//User Input:17
+//Alert: You are not eligible to vote
