@@ -13,7 +13,7 @@ if (score >= 70 && score <= 100)
     alert("Invalid score");
 }
 
-Sample output
-Prompt: Enter your score
-User Input: 65
-Alert: Good
+//Sample output
+//Prompt: Enter your score
+//User Input: 65
+//Alert: Good
